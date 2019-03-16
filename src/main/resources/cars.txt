@@ -1,0 +1,10 @@
+1,bmw,2004,black
+2,dgbmw,2004,black
+3,oybmw,2004,black
+5,ncbbmw,2004,black
+4,qbmw,2004,black
+1,bcbmw,2004,black
+10,nlbmw,2004,black
+5,FOIBN{bmw,2004,black
+1,nxbmw,2004,black
+1,bmw,2004,black
